@@ -1,1 +1,1 @@
-Two major projects during my first year at AstraZeneca. The "Air Tubing Deviation" folder contains  The "Digital Reliability Dashboard" was the other major project. I coded this in Microsoft PowerBI; the dashboard takes data from a complex maintenance system and presents it clearly in such a way to aid decision making. This tool remains in use and helped achieve a 12x decrease in the number of missed maintenance orders across 4 production facilities.
+
